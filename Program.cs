@@ -11,40 +11,28 @@ namespace OOP;
 
 class NumericalValue
 {
-    public NumericalValue()
-    {
-
-    }
 }
 
 
 class Integer : NumericalValue
 {
-    private int value_;
-
-    public int Value
-    {
-        get { return value_; }
-        set { value_ = value; }
-    }
-
 }
 class Decimal : NumericalValue
 {
-    public Decimal()
-    {
-
-    }
 }
 
-class Complex
+class Complex : NumericalValue
 {
-    public Complex()
-    {
-
-    }
 }
 
+class Number : NumericalValue
+{
+}
+
+class Collection
+{
+
+}
 
 
 internal class Practice
