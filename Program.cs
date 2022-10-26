@@ -11,6 +11,10 @@ namespace OOP;
 
 class NumericalValue
 {
+    public NumericalValue()
+    {
+            
+    }
 }
 
 
