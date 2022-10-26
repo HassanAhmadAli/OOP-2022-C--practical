@@ -2,5 +2,5 @@
 obj
 .vscode
 bin
-..gitignore.un~
+..gitignore.*
 main.sln
