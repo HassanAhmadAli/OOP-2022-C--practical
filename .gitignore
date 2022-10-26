@@ -1,5 +1,5 @@
-.vs
-obj
-.vscode
-bin
-.\main.sln
+.vs/
+obj/
+.vscode/
+bin/
+*.sln
