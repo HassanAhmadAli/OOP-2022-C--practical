@@ -31,7 +31,6 @@ class Number : NumericalValue
 
 class Collection
 {
-
 }
 
 
